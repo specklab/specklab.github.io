@@ -1,0 +1,76 @@
+/* Grundlegendes Styling für die Webseite */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+/* Header und Absätze */
+h1, h2, h3 {
+    color: #333;
+    text-align: center;
+    margin-top: 20px;
+}
+
+p {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 10px;
+    line-height: 1.6;
+}
+
+/* Hauptcontainer für besseren Layout */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Navigation und Links */
+a {
+    color: #007acc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Listen (z.B. für Projekte) */
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+/* Projektübersichten */
+li {
+    padding: 5px 0;
+}
+
+/* Buttons für eine interaktive Oberfläche */
+button {
+    background-color: #007acc;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #005f99;
+}
+
+/* Fußzeile */
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
