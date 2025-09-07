@@ -1,2 +1,2 @@
-# dom65dom.github.io
+# specklab.github.io
 Weitere Einstellungen
