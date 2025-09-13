@@ -7,9 +7,10 @@ author:
   email: dominik.speckbacher@gfn.education
 
 url: https://specklab.github.io
+
 social_links:
-  - { platform: linkedin,  user_url: "https://www.linkedin.com/in/dominik-speckbacher" }
-  - { platform: github,    user_url: "https://github.com/specklab" }
+  - { platform: linkedin, user_url: "https://www.linkedin.com/in/dominik-speckbacher" }
+  - { platform: github,   user_url: "https://github.com/specklab" }
 
 # Seiten oben im Menü
 header_pages:
