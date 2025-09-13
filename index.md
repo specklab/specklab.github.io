@@ -1,3 +1,4 @@
+
 ---
 layout: home
 title: Willkommen
@@ -11,8 +12,9 @@ title: Willkommen
 **Data:** Python, Jupyter, Pandas/NumPy
 
 **Schnelllinks**
-- 📄 Bewerbungen (LaTeX + Auto-PDF): <https://github.com/specklab/bewerbungen-forschung-it>
-- 💼 LinkedIn: <https://www.linkedin.com/in/dominik-speckbacher>
-- 📬 E-Mail: dominik.speckbacher@gfn.education
+- 📄 [Bewerbungen (LaTeX + Auto-PDF)](https://github.com/specklab/bewerbungen-forschung-it)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dominik-speckbacher)
+- 📬 dominik.speckbacher@gfn.education
+
 
 
